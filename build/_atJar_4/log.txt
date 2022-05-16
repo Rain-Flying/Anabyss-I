@@ -1,0 +1,7 @@
+Java Launcher: C:\Program Files\Java\jdk-17.0.3.1\bin\java.exe
+Arguments: '--inJar, D:\Project\Anabyss\Anabyss\build\fg_cache\net\minecraftforge\forge\1.18.2-40.1.0\forge-1.18.2-40.1.0-injected.jar, --outJar, D:\Project\Anabyss\Anabyss\build\fg_cache\net\minecraftforge\forge\1.18.2-40.1.0_mapped_parchment_2022.03.13-1.18.2\forge-1.18.2-40.1.0_mapped_parchment_2022.03.13-1.18.2.jar, --logFile, accesstransform.log, --atFile, D:\Project\Anabyss\Anabyss\src\main\resources\META-INF\accesstransformer.cfg, --atFile, D:\Project\Anabyss\Anabyss\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\stars\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working directory: D:\Project\Anabyss\Anabyss\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
