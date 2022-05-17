@@ -1,9 +1,9 @@
-D:\Project\Anabyss\Anabyss\build\fg_cache\net\minecraftforge\forge\1.18.2-40.1.0_mapped_parchment_2022.03.13-1.18.2\forge-1.18.2-40.1.0_mapped_parchment_2022.03.13-1.18.2-recomp.jar
+D:\Project\Anabyss\build\fg_cache\net\minecraftforge\forge\1.18.2-40.1.20_mapped_parchment_2022.03.13-1.18.2\forge-1.18.2-40.1.20_mapped_parchment_2022.03.13-1.18.2.jar
 C:\Users\stars\.gradle\caches\forge_gradle\minecraft_repo\versions\1.18.2\client-extra.jar
-C:\Users\stars\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.18.2-40.1.0\fb3933cc7e1adef6d2c8ae599693d4577f0494e0\javafmllanguage-1.18.2-40.1.0.jar
-C:\Users\stars\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.18.2-40.1.0\cc24ae9166f9f53ce82ea7e8c3ad46901526993f\mclanguage-1.18.2-40.1.0.jar
-C:\Users\stars\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.18.2-40.1.0\a3b235ea2d03cdad9562765baf0b995728e7e35c\fmlcore-1.18.2-40.1.0.jar
-C:\Users\stars\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlloader\1.18.2-40.1.0\842aac12c6cbd1b6dc9dd9ae4e98038e70a2b832\fmlloader-1.18.2-40.1.0.jar
+C:\Users\stars\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.18.2-40.1.20\2648fff4e82697bd4f29ffe11ebef5af30b4e66f\javafmllanguage-1.18.2-40.1.20.jar
+C:\Users\stars\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.18.2-40.1.20\99781013b7ea4e05f3f94f8c5ed676501f7969f8\mclanguage-1.18.2-40.1.20.jar
+C:\Users\stars\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.18.2-40.1.20\cc5bdab69fac7c6bebd0cb4ba9bedc26b219f585\fmlcore-1.18.2-40.1.20.jar
+C:\Users\stars\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlloader\1.18.2-40.1.20\a96600bd69da2dea293f28a9e5e29cb76e6bccbd\fmlloader-1.18.2-40.1.20.jar
 C:\Users\stars\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\31.0.1-jre\119ea2b2bc205b138974d351777b20f02b92704b\guava-31.0.1-jre.jar
 C:\Users\stars\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar
 C:\Users\stars\.gradle\caches\modules-2\files-2.1\ca.weblite\java-objc-bridge\1.0.0\6ef160c3133a78de015830860197602ca1c855d3\java-objc-bridge-1.0.0.jar

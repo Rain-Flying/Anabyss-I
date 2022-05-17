@@ -1,4 +1,8 @@
 {
+  "itemGroup.anabyss": "远古深渊",
+  "item.anabyss.netherite_nugget": "下界合金粒",
+  "item.anabyss.netherite_diamond": "下界钻石",
+  "item.anabyss.netherite_stick": "下界合金棍",
   "block.anabyss.incomplete_stone": "未完全侵蚀石头",
   "biome.anabyss.unetherited": "未完全侵蚀之地"
 }
