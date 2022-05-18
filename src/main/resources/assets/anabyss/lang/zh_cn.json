@@ -1,6 +1,11 @@
 {
   "itemGroup.anabyss": "远古深渊",
+  "item.anabyss.netherite_bearing": "下界合金轴承",
   "item.anabyss.netherite_nugget": "下界合金粒",
+  "item.anabyss.netherite_gear": "下界合金齿轮",
+  "item.anabyss.netherite_hammer": "下界合金锤子",
+  "item.anabyss.netherite_dust": "下界合金粉",
+  "item.anabyss.netherite_plate": "下界合金板",
   "item.anabyss.netherite_diamond": "下界钻石",
   "item.anabyss.netherite_stick": "下界合金棍",
   "block.anabyss.incomplete_stone": "未完全侵蚀石头",
