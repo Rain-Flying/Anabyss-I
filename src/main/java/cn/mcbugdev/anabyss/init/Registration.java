@@ -5,6 +5,7 @@ import cn.mcbugdev.anabyss.blocks.IncompleteStone;
 import cn.mcbugdev.anabyss.items.DimensionKey;
 import cn.mcbugdev.anabyss.items.ItemBase;
 import cn.mcbugdev.anabyss.items.NetheriteDiamond;
+import cn.mcbugdev.anabyss.items.tools.ToolBase;
 import cn.mcbugdev.anabyss.utils.Reference;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
@@ -24,7 +25,7 @@ public class Registration {
     public static final RegistryObject<Item> NETHERITE_BEARING = ITEMS.register("netherite_bearing",()->new ItemBase(Reference.ANABYSS_TAB));
     public static final RegistryObject<Item> NETHERITE_NUGGET = ITEMS.register("netherite_nugget",()->new ItemBase(Reference.ANABYSS_TAB));
     public static final RegistryObject<Item> NETHERITE_GEAR = ITEMS.register("netherite_gear",()->new ItemBase(Reference.ANABYSS_TAB));
-    public static final RegistryObject<Item> NETHERITE_HAMMER = ITEMS.register("netherite_hammer",()->new ItemBase(Reference.ANABYSS_TAB));
+    public static final RegistryObject<Item> NETHERITE_HAMMER = ITEMS.register("netherite_hammer", ToolBase::new);
     public static final RegistryObject<Item> NETHERITE_DUST = ITEMS.register("netherite_dust",()->new ItemBase(Reference.ANABYSS_TAB));
     public static final RegistryObject<Item> NETHERITE_PLATE = ITEMS.register("netherite_plate",()->new ItemBase(Reference.ANABYSS_TAB));
     public static final RegistryObject<Item> NETHERITE_DIAMOND = ITEMS.register("netherite_diamond", NetheriteDiamond::new);
