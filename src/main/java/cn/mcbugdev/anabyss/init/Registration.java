@@ -21,7 +21,12 @@ public class Registration {
     public static final RegistryObject<Block> INCOMPLETE_STONE = BLOCKS.register("incomplete_stone", IncompleteStone::new);
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS,Reference.MOD_ID);
     public static final RegistryObject<Item> DIMENSION_KEY = ITEMS.register("dimension_key", DimensionKey::new);
+    public static final RegistryObject<Item> NETHERITE_BEARING = ITEMS.register("netherite_bearing",()->new ItemBase(Reference.ANABYSS_TAB));
     public static final RegistryObject<Item> NETHERITE_NUGGET = ITEMS.register("netherite_nugget",()->new ItemBase(Reference.ANABYSS_TAB));
+    public static final RegistryObject<Item> NETHERITE_GEAR = ITEMS.register("netherite_gear",()->new ItemBase(Reference.ANABYSS_TAB));
+    public static final RegistryObject<Item> NETHERITE_HAMMER = ITEMS.register("netherite_hammer",()->new ItemBase(Reference.ANABYSS_TAB));
+    public static final RegistryObject<Item> NETHERITE_DUST = ITEMS.register("netherite_dust",()->new ItemBase(Reference.ANABYSS_TAB));
+    public static final RegistryObject<Item> NETHERITE_PLATE = ITEMS.register("netherite_plate",()->new ItemBase(Reference.ANABYSS_TAB));
     public static final RegistryObject<Item> NETHERITE_DIAMOND = ITEMS.register("netherite_diamond", NetheriteDiamond::new);
     public static final RegistryObject<Item> INCOMPLETE_STONE_ITEM = ITEMS.register("incomplete_stone",()->new BlockItem(INCOMPLETE_STONE.get(),new Item.Properties().tab(Reference.ANABYSS_TAB)));
     public static final RegistryObject<Item> NETHERITE_STICK = ITEMS.register("netherite_stick",()->new ItemBase(Reference.ANABYSS_TAB));
