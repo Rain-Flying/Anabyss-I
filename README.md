@@ -4,7 +4,7 @@ Anabyss
 
 ***
 
-2022(GPL V3) Made By MCBUGDev.  
+2022(GPL V3) Made by MCBUGDev.  
 This Docs Language is CHINESE
 
 ***
