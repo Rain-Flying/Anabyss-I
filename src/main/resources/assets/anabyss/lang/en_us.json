@@ -1,7 +1,12 @@
 {
   "itemGroup.anabyss": "Anabyss",
   "item.anabyss.netherite_diamond": "Netherite Diamond",
+  "item.anabyss.netherite_bearing": "Netherite Bearing",
   "item.anabyss.netherite_nugget": "Netherite Nugget",
+  "item.anabyss.netherite_gear": "Netherite gear",
+  "item.anabyss.netherite_hammer": "Netherite Hammer",
+  "item.anabyss.netherite_dust": "Netherite Dust",
+  "item.anabyss.netherite_plate": "Netherite Plate",
   "item.anabyss.netherite_stick": "Netherite Stick",
   "block.anabyss.incomplete_stone": "Incomplete Stone",
   "biome.anabyss.unetherited": "Unetherited"
