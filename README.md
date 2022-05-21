@@ -1,4 +1,4 @@
-Anabyss（Amnebyss）
+Anabyss
 =======
 ### 远古深渊
 
